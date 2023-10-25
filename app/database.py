@@ -5,7 +5,7 @@ def connectorMysql():
             host="localhost",
             port = 3306,
             user="root",
-            password="Anw175992587t+",
+            password="",
             database="simple_api"
     )
     return mydb
